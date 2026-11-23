@@ -6,8 +6,11 @@ export const siteBrand = {
   tagline: "Home-cooked meal prep that doesn't taste like meal prep",
   subhead: "Macros made simple. Fresh, home-cooked meal prep delivered across Sydney. High protein, balanced meals designed for busy lifestyles.",
   announcement: "FRESH MEALS, ZERO PREP ✨ • ORDER BY THURSDAY 7PM • FREE DELIVERY ON 10+ MEALS 🚚",
-  logoWhite: "https://lunchesbylily.com.au/cdn/shop/files/Lunches_By_Lily_-_Logo_Primary_-_White.png?height=36&v=1779253221",
-  logoRed: "https://lunchesbylily.com.au/cdn/shop/files/Lunches_By_Lily_-_Logo_Brandmark_-_Red_27fc1aa1-8ae6-4dde-b143-5bf827f95bf0.png?crop=center&height=80&v=1771491554&width=80",
+  // Exact original "LUNCHESbylily." logo assets
+  logoBlack: "https://lunchesbylily.com.au/cdn/shop/files/Lunches_By_Lily_-_Logo_Primary_-_Black.png",
+  logoWhite: "https://lunchesbylily.com.au/cdn/shop/files/Lunches_By_Lily_-_Logo_Primary_-_White.png",
+  logoPrimary: "https://lunchesbylily.com.au/cdn/shop/files/Lunches_By_Lily_-_Logo_Primary_-_Black.png",
+  logoPrimaryWhite: "https://lunchesbylily.com.au/cdn/shop/files/Lunches_By_Lily_-_Logo_Primary_-_White.png",
   cutOffTime: "Thursday 7:00 PM",
   deliveryDays: "Sunday & Wednesday",
   minOrderMeals: 5,

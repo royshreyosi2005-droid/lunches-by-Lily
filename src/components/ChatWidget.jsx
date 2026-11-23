@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { MessageCircle, X, Send, Phone, Mail, CheckCircle2, Sparkles, Clock, ShieldCheck, MapPin } from 'lucide-react';
-import { siteBrand } from '../data/siteData';
+import { siteBrand, founderStory } from '../data/siteData';
 
 /**
  * ChatWidget — Restores the original Lunches By Lily customer chat functionality.
@@ -137,9 +137,9 @@ export default function ChatWidget() {
               <div className="flex items-center gap-3">
                 <div className="relative">
                   <img
-                    src={siteBrand.logoRed}
+                    src={founderStory.image}
                     alt="Lily"
-                    className="w-10 h-10 rounded-full object-contain bg-white p-0.5 border border-white/20"
+                    className="w-10 h-10 rounded-full object-cover object-top border border-white/20 shadow-sm"
                   />
                   <span className="absolute bottom-0 right-0 w-3 h-3 rounded-full bg-emerald-400 border-2 border-[#263D30]" />
                 </div>

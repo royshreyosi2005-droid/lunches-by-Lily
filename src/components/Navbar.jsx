@@ -96,25 +96,18 @@ export default function Navbar({ onOpenSearch }) {
               </button>
             </div>
 
-            {/* Brand Logo & Editorial Typography */}
+            {/* Brand Logo: Exact Original "LUNCHESbylily." Image Asset */}
             <div className="flex items-center justify-center lg:justify-start">
-              <Link to="/" className="group flex items-center gap-3 text-left">
-                <div className="relative">
-                  <img
-                    src={siteBrand.logoRed}
-                    alt={siteBrand.name}
-                    className="w-10 h-10 object-contain rounded-full shadow-sm group-hover:scale-105 transition-transform duration-500 ease-out"
-                  />
-                  <div className="absolute inset-0 rounded-full ring-1 ring-[#263D30]/10 group-hover:ring-[#C87551]/30 transition-colors" />
-                </div>
-                <div className="flex flex-col">
-                  <span className="font-serif text-2xl sm:text-3xl tracking-tight text-[#263D30] font-normal leading-none group-hover:text-[#C87551] transition-colors duration-300">
-                    Lunches By Lily
-                  </span>
-                  <span className="text-[9px] tracking-widest uppercase text-[#A5AD91] font-semibold mt-1">
-                    Sydney • Fresh Meal Prep
-                  </span>
-                </div>
+              <Link to="/" className="block group select-none py-1" aria-label="Lunches By Lily - Home">
+                <img
+                  src={siteBrand.logoBlack || "/logo-black.png"}
+                  alt="Lunches By Lily"
+                  className="h-8 sm:h-9 w-auto object-contain transition-opacity duration-300 group-hover:opacity-85"
+                  style={{ aspectRatio: '2975 / 631' }}
+                  width="170"
+                  height="36"
+                  fetchPriority="high"
+                />
               </Link>
             </div>
 
@@ -218,13 +211,15 @@ export default function Navbar({ onOpenSearch }) {
               <div>
                 {/* Header */}
                 <div className="flex items-center justify-between pb-6 border-b border-[#263D30]/10">
-                  <Link to="/" className="flex items-center gap-3" onClick={() => setMobileMenuOpen(false)}>
+                  <Link to="/" className="block select-none py-1" onClick={() => setMobileMenuOpen(false)} aria-label="Lunches By Lily - Home">
                     <img
-                      src={siteBrand.logoRed}
-                      alt={siteBrand.name}
-                      className="w-9 h-9 object-contain rounded-full shadow-sm"
+                      src={siteBrand.logoBlack || "/logo-black.png"}
+                      alt="Lunches By Lily"
+                      className="h-7 w-auto object-contain"
+                      style={{ aspectRatio: '2975 / 631' }}
+                      width="133"
+                      height="28"
                     />
-                    <span className="font-serif text-2xl text-[#263D30]">Lunches By Lily</span>
                   </Link>
                   <button
                     type="button"

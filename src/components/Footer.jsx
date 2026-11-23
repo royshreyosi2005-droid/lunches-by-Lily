@@ -12,15 +12,15 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-10 sm:gap-12 pb-16 border-b border-[#F7F4EC]/12">
           {/* Col 1 & 2: Brand & Mission */}
           <div className="lg:col-span-2 space-y-5">
-            <Link to="/" className="inline-flex items-center gap-3 group">
+            <Link to="/" className="inline-block group select-none py-1" aria-label="Lunches By Lily - Home">
               <img
-                src={siteBrand.logoRed}
-                alt={siteBrand.name}
-                className="w-10 h-10 object-contain rounded-full bg-white p-0.5 shadow-sm"
+                src={siteBrand.logoWhite || "/logo-white.png"}
+                alt="Lunches By Lily"
+                className="h-8 sm:h-9 w-auto object-contain transition-opacity duration-300 group-hover:opacity-85"
+                style={{ aspectRatio: '2975 / 631' }}
+                width="170"
+                height="36"
               />
-              <span className="font-serif text-3xl tracking-tight text-[#F7F4EC] group-hover:text-[#EFE9DC] transition-colors">
-                Lunches By Lily
-              </span>
             </Link>
             <p className="text-sm text-[#A5AD91] max-w-sm leading-relaxed font-normal">
               {siteBrand.subhead}
