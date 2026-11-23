@@ -1,0 +1,192 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-ivory: #F7F4EC;
+  --color-brand-cream: #EFE9DC;
+  --color-brand-forest: #263D30;
+  --color-brand-forest-light: #324E3E;
+  --color-brand-forest-dark: #1C2E24;
+  --color-brand-sage: #A5AD91;
+  --color-brand-sage-light: #CAD0BD;
+  --color-brand-terracotta: #C87551;
+  --color-brand-terracotta-dark: #AC5D3C;
+  --color-brand-charcoal: #252721;
+  --color-brand-charcoal-light: #3C3F37;
+  --color-brand-charcoal-muted: #686B62;
+
+  --font-serif: "Instrument Serif", Georgia, serif;
+  --font-sans: "Instrument Sans", "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+  --font-display: "Instrument Serif", Georgia, serif;
+
+  --shadow-soft: 0 4px 20px -2px rgba(37, 39, 33, 0.05);
+  --shadow-elevated: 0 10px 30px -4px rgba(37, 39, 33, 0.08), 0 4px 12px -2px rgba(37, 39, 33, 0.04);
+  --shadow-modal: 0 25px 50px -12px rgba(37, 39, 33, 0.25);
+}
+
+:root {
+  --color-ivory: #F7F4EC;
+  --color-cream: #EFE9DC;
+  --color-forest: #263D30;
+  --color-sage: #A5AD91;
+  --color-terracotta: #C87551;
+  --color-charcoal: #252721;
+}
+
+html {
+  scroll-behavior: smooth;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: var(--color-ivory);
+  color: var(--color-charcoal);
+  font-family: 'Instrument Sans', 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, .font-serif {
+  font-family: 'Instrument Serif', Georgia, serif;
+  letter-spacing: -0.015em;
+}
+
+/* Custom subtle animations and transitions */
+@keyframes marquee {
+  0% { transform: translateX(0%); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-marquee {
+  display: flex;
+  width: 200%;
+  animation: marquee 28s linear infinite;
+}
+
+.animate-marquee:hover {
+  animation-play-state: paused;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #F7F4EC;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #A5AD91;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #263D30;
+}
+
+/* Hide scrollbar utility */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Mobile tap optimization */
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Smooth selection colors matching brand */
+::selection {
+  background-color: #C87551;
+  color: #FFFFFF;
+}
+
+/* Editorial table & rich text styling for Shopify descriptions */
+.prose table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 1.5rem 0;
+  font-size: 0.875rem;
+  background-color: rgba(239, 233, 220, 0.4);
+  border-radius: 1rem;
+  overflow: hidden;
+  border: 1px solid rgba(38, 61, 48, 0.12);
+}
+
+.prose table th,
+.prose table td {
+  padding: 0.65rem 1rem;
+  border-bottom: 1px solid rgba(38, 61, 48, 0.08);
+  text-align: left;
+}
+
+.prose table tr:last-child td {
+  border-bottom: none;
+}
+
+.prose table th,
+.prose table td:first-child {
+  font-weight: 600;
+  color: #263D30;
+}
+
+.prose p {
+  margin-bottom: 0.75rem;
+  line-height: 1.7;
+}
+
+.prose strong {
+  color: #263D30;
+  font-weight: 600;
+}
+
+/* Editorial Agency Polish Classes */
+.glass-ivory {
+  background: rgba(247, 244, 236, 0.88);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+}
+
+.glass-forest {
+  background: rgba(38, 61, 48, 0.92);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+}
+
+.font-editorial-italic {
+  font-family: 'Instrument Serif', Georgia, serif;
+  font-style: italic;
+}
+
+.border-hairline {
+  border-color: rgba(38, 61, 48, 0.12);
+}
+
+.border-hairline-light {
+  border-color: rgba(247, 244, 236, 0.15);
+}
+
+/* Subtle image depth */
+.img-editorial {
+  transition: transform 0.8s cubic-bezier(0.16, 1, 0.3, 1), filter 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.img-editorial:hover {
+  transform: scale(1.03);
+}
+
+/* Accessibility reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

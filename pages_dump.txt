@@ -1,0 +1,207 @@
+
+========================================
+PAGE: About Us (handle: about-us)
+========================================
+<h4>The Story Behind Lunches by Lily</h4>
+<p class="isSelectedEnd"><span>Hello, I'm Lily, the founder!</span></p>
+<p class="isSelectedEnd"><span>Lunches By Lily didn't start in a boardroom or with a big business plan.</span></p>
+<p class="isSelectedEnd"><span>It started while I was working full-time managing a cafe.</span></p>
+<p class="isSelectedEnd"><span>I started cooking meals after work. And w</span><span>hat began as a small side hustle quickly grew through word of mouth. Friends told friends, customers kept coming back and before I knew it, Lunches By Lily had become more than something I did after hours. It had completely overtaken my spare time.</span></p>
+<p class="isSelectedEnd"><span>Eventually, I had to make one of the hardest decisions I've ever made: leaving a job I genuinely loved to back myself and pursue Lunches By Lily full-time.</span></p>
+<p class="isSelectedEnd"><span>I've never looked back.</span></p>
+<p class="isSelectedEnd"><span>Today, every meal is made with the same goal I had when I started: to make eating well simple. Whether you're juggling work, family, training, or just life in general, I want to take one thing off your plate so you have more time for what matters most.</span></p>
+<p class="isSelectedEnd"><span>Lunches By Lily isn't just about meal prep. It's about giving people back their time, without compromising on fresh, nutritious food.</span></p>
+<p><span>And this is only the beginning &lt;3</span></p>
+
+========================================
+PAGE: Accessibility Statement (handle: accessibility-statement)
+========================================
+<p><strong>Last updated:</strong> 30 March 2026</p>
+<p>Lunches By Lily is committed to ensuring digital accessibility for all customers, including people with disabilities. We are continually improving the user experience for everyone and applying relevant accessibility standards to achieve this.</p>
+<h2>Our Commitment</h2>
+<p>We aim to make our website accessible and usable for as many people as possible. This includes individuals who may rely on assistive technologies such as screen readers, magnifiers, voice recognition software, or alternative input devices.</p>
+<h2>Accessibility Standards</h2>
+<p>Our goal is to align with the <strong>Web Content Accessibility Guidelines (WCAG) 2.1 Level AA</strong>, which outline best practices for making web content more accessible.</p>
+<p>We are actively working to improve the accessibility and usability of our website by:</p>
+<ul>
+<li>
+<p>Using clear and readable fonts and colour contrast</p>
+</li>
+<li>
+<p>Structuring content with proper headings and labels</p>
+</li>
+<li>
+<p>Providing alternative text for images where possible</p>
+</li>
+<li>
+<p>Ensuring navigation is accessible via keyboard</p>
+</li>
+<li>
+<p>Regularly reviewing our website for accessibility improvements</p>
+</li>
+</ul>
+<h2>Ongoing Improvements</h2>
+<p>Accessibility is an ongoing effort, and we recognise that some areas of our website may not yet fully meet accessibility standards. We are continuously working to identify and address these areas.</p>
+<h2>Third-Party Content</h2>
+<p>Some parts of our website may include third-party integrations or tools (such as payment gateways or embedded apps) that are not fully controlled by us. While we strive to work with accessible providers, we cannot guarantee full accessibility of third-party content.</p>
+<h2>Feedback &amp; Assistance</h2>
+<p>If you experience any difficulty accessing our website, or if you have suggestions on how we can improve accessibility, we encourage you to contact us.</p>
+<p>We will do our best to provide the information or assistance you need in an alternative format.</p>
+<p><strong>Contact us:</strong><br>Email: <a href="mailto:hello@lunchesbylily.com.au">lunchesbylily@gmail.com</a><br>Location: Sydney, Australia</p>
+<h2>Compatibility</h2>
+<p>Our website is designed to be compatible with modern browsers and commonly used assistive technologies. For the best experience, we recommend keeping your browser up to date.</p>
+<hr>
+<p>We are committed to making our website accessible and inclusive for all users and appreciate your feedback as we continue to improve.</p>
+
+========================================
+PAGE: Contact (handle: contact)
+========================================
+<p>Have a question about your order, delivery, or the weekly menu? We’re here to help.</p>
+<p>Whether you're a new customer looking to try our meals or a regular customer with a question, feel free to reach out and we’ll get back to you as soon as possible.</p>
+<h3 style="text-align: left;">General Enquiries</h3>
+<p>For general questions about our meals, ordering process, or delivery areas:</p>
+<p><strong>Email:</strong> hello@lunchesbylily.com.au</p>
+<h3 style="text-align: left;">Orders &amp; Delivery</h3>
+<p>If you need help with an existing order, please include your <strong>name and order details</strong> so we can assist you quickly.</p>
+<p>You can contact us via:</p>
+<p><strong>Email:</strong> hello@lunchesbylily.com.au<br><strong>WhatsApp: </strong>+61457713394<br><strong>Instagram:</strong> @lunchesbylily</p>
+<h3 style="text-align: left;">Business Hours</h3>
+<p>Messages are monitored during business hours and we aim to respond as soon as possible.</p>
+<p><strong>Monday – Friday:</strong> 9:00am – 5:00pm<br><strong>Saturday – Sunday:</strong> Limited availability due to meal preparation and deliveries.</p>
+<h3 style="text-align: left;">Pickup Location</h3>
+<p>If you have selected pickup for your order, the pickup address and time window will be provided in your order confirmation.</p>
+<h3 style="text-align: left;">Stay Connected</h3>
+<p>Follow us on Instagram for weekly menu releases, updates, and new meal drops.</p>
+<p><strong>Instagram:</strong> @lunchesbylily</p>
+
+========================================
+PAGE: Delivery Information (handle: delivery-info)
+========================================
+<p style="text-align: left;"><meta charset="utf-8">Fresh meals delivered across Sydney every week. Simply order before the weekly cut-off and we’ll handle the rest.</p>
+<h3>Delivery Days</h3>
+<p>Lunches by Lily offers <strong>delivery every Sunday.</strong></p>
+<p>Meals are delivered chilled and ready to refrigerate.</p>
+<h3>Delivery Areas</h3>
+<p>Delivery is available across selected Sydney suburbs.</p>
+<p>Delivery fees vary depending on your location and will be calculated at checkout. However if it doesn't, please refer to this list to find your correct delivery zone. </p>
+<p>Example delivery zones:</p>
+<p>• Pickup at Auburn - FREE</p>
+<p>• Inner Zone – $15</p>
+<p>Includes radius up to 6-12 km from Auburn 2144.</p>
+<p>• Outer Zone – $20</p>
+<p>Includes radius up to 12-18 km from Auburn 2144.</p>
+<p>• Far Zone – $25</p>
+<p>Includes radius up to 18 km+ from Auburn 2144.</p>
+<h3>Delivery Process</h3>
+<p>On delivery day, meals will be delivered to the address provided at checkout.</p>
+<p>Please ensure someone is available to receive the delivery. If no one is available, meals may be left in a safe place if requested.</p>
+<p>Meals are delivered <strong>fresh and chilled</strong>, and should be placed in the refrigerator as soon as possible.</p>
+<h3>Storage After Delivery</h3>
+<p>Once delivery has been completed, customers are responsible for properly storing their meals.</p>
+<p>For best quality, meals should be kept refrigerated and consumed within the recommended timeframe listed on the packaging.</p>
+<h3>Delivery Notifications</h3>
+<p>Customers may receive a message on the day of delivery with an estimated delivery window.</p>
+<p>Delivery times may vary depending on route scheduling and traffic conditions.</p>
+<h3>Questions About Delivery</h3>
+<p>If you have questions about delivery or need assistance with your order, please contact:</p>
+<p>Lunches by Lily<br>Email: <a href="mailto:hello@lunchesbylily.com">hello@lunchesbylily.com.au</a><br>Instagram: @lunchesbylily</p>
+<blockquote></blockquote>
+
+========================================
+PAGE: FAQs (handle: faqs)
+========================================
+
+
+========================================
+PAGE: Privacy Policy (handle: privacy-policy)
+========================================
+<h2>Privacy Policy</h2>
+<h3>Introduction</h3>
+<p>Lunches by Lily respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and protect your personal information when you visit our website or place an order with us.</p>
+<p>By using our website or purchasing our products, you agree to the terms of this Privacy Policy.</p>
+<hr>
+<h3>Information We Collect</h3>
+<p>When you interact with our website or place an order, we may collect the following information:</p>
+<p>• Name<br>• Email address<br>• Phone number<br>• Delivery address<br>• Billing address<br>• Order details<br>• Payment information (processed securely through our payment providers)</p>
+<p>We may also collect certain technical information when you visit our website, including:</p>
+<p>• IP address<br>• Browser type<br>• Device information<br>• Website usage data through cookies and analytics tools</p>
+<hr>
+<h3>How We Use Your Information</h3>
+<p>We collect personal information to:</p>
+<p>• Process and fulfil your orders<br>• Arrange delivery or pickup of meals<br>• Communicate with you about your order<br>• Provide customer support<br>• Send updates about menu releases, promotions, or special offers (if you opt in)<br>• Improve our website and customer experience</p>
+<p>We will only use your information for purposes related to providing our services.</p>
+<hr>
+<h3>Payment Information</h3>
+<p>All payments made through our website are processed securely through third-party payment providers. Lunches by Lily does not store or have access to your full credit card details.</p>
+<hr>
+<h3>Sharing Your Information</h3>
+<p>We do not sell, rent, or trade your personal information.</p>
+<p>Your information may be shared with trusted third parties only when necessary to operate our business, including:</p>
+<p>• Payment processing providers<br>• Delivery service providers<br>• Website and hosting platforms such as Shopify<br>• Analytics services that help us understand website performance</p>
+<p>These providers are required to protect your information and only use it for the purposes of providing their services.</p>
+<hr>
+<h3>Cookies and Website Tracking</h3>
+<p>Our website may use cookies and similar technologies to enhance your browsing experience an</p>
+
+========================================
+PAGE: Refund & Returns Policy (handle: refund-returns-policy)
+========================================
+<h3><span>Refund &amp; Returns Policy</span></h3>
+<p class="isSelectedEnd"><span>Due to the perishable nature of our products, Lunches by Lily does not accept returns.</span></p>
+<p class="isSelectedEnd"><span>If there is an issue with your order, please contact us within 24 hours of delivery with a description and photo of the problem. We will assess each case individually and may offer a replacement or refund where appropriate.</span></p>
+<p><span>Refunds will not be provided for:</span><br><span>• change of mind</span><br><span>• incorrect storage after delivery</span><br><span>• meals consumed after the recommended consumption date</span></p>
+<h3><span>Privacy Policy</span></h3>
+<p class="isSelectedEnd"><span>Lunches by Lily respects your privacy and is committed to protecting your personal information.</span></p>
+<p class="isSelectedEnd"><span>When you place an order or sign up for updates, we may collect personal information including your name, email address, phone number, and delivery address. This information is used solely for the purpose of processing orders, arranging delivery, and communicating with you about your purchase.</span></p>
+<p><span>We do not sell, trade, or share your personal information with third parties except where required to process payments or fulfil delivery services.</span></p>
+<h3><span>Nutritional Information Disclaimer</span></h3>
+<p class="isSelectedEnd"><span>Nutritional information provided on this website is intended as a guide only. While we make every effort to ensure accuracy, variations in ingredients and preparation may cause slight differences in nutritional values.</span></p>
+<p><span>Customers should not rely solely on this information for dietary or medical purposes. If you have specific dietary requirements or health concerns, please consult a qualified health professional.</span></p>
+<h3><span>Delivery Liability</span></h3>
+<p><span>If a customer requests that meals be left unattended at the delivery address, Lunches by Lily cannot guarantee the temperature or condition of the meals after delivery. Customers accept responsibility for proper storage once the delivery has been completed.</span></p>
+
+========================================
+PAGE: Terms & Conditions (handle: terms-conditions)
+========================================
+<p><meta charset="utf-8">These Terms &amp; Conditions apply to all orders placed with Lunches by Lily through our website, social media, or direct message. By placing an order, you agree to the terms outlined below.</p>
+<p><strong>Orders &amp; Cut-Off Times</strong></p>
+<p class="isSelectedEnd"><span>Orders must be placed before the weekly cut-off time listed on our website. Meals are prepared fresh each week and menus may rotate based on seasonal ingredients and availability.</span></p>
+<p><span>Orders placed after the cut-off time will be scheduled for the following week's delivery or pickup.</span></p>
+<p><span><meta charset="utf-8">
+<strong>Payment</strong></span></p>
+<p><span>All orders must be paid in full at the time of purchase. Orders will not be confirmed until payment has been successfully processed.</span></p>
+<p><span><meta charset="utf-8">
+<strong>Delivery</strong></span></p>
+<p class="isSelectedEnd"><span>Delivery is available within selected Sydney suburbs. Delivery fees vary depending on location and will be displayed at checkout.</span></p>
+<p class="isSelectedEnd"><span>Lunches by Lily operates with two delivery days each week. Orders that include meals scheduled across both delivery days will incur an additional $6 split delivery fee. If all meals in the order are scheduled for the same delivery day, the additional split delivery fee will not apply.</span></p>
+<p class="isSelectedEnd"><span>Customers must ensure someone is available to receive the order at the selected delivery time. If no one is present, meals may be left in a safe location.</span></p>
+<p><span>Once delivery has been completed, Lunches by Lily is not responsible for the storage conditions of the meals.</span></p>
+<p><strong>Pickup</strong></p>
+<p><span><meta charset="utf-8">Customers selecting pickup must collect their meals during the scheduled pickup window. Meals not collected during this time may not be available later.</span></p>
+<p><span><meta charset="utf-8">
+<strong>Storage &amp; Food Safety</strong></span></p>
+<p class="isSelectedEnd"><span>All meals are prepared fresh and delivered chilled. Meals should be refrigerated below 5 degrees immediately upon receipt and consumed within the recommended timeframe listed on the packaging.</span></p>
+<p><span>Customers are responsible for proper storage after delivery or pickup.</span></p>
+<p><span><meta charset="utf-8">
+<strong>Allergies &amp; Dietary Requirements</strong></span></p>
+<p class="isSelectedEnd"><span>While we take care in preparing our meals, our kitchen handles ingredients that may contain allergens including dairy, nuts, gluten, sesame, and seafood.</span></p>
+<p><span>Customers with allergies or dietary requirements should review ingredient information carefully before ordering.</span></p>
+<p><span><meta charset="utf-8">
+<strong>Order Changes &amp; Cancellations</strong></span></p>
+<p><span>Orders may be modified or cancelled before the weekly order cut-off time. After the cut-off time, changes may not be possible as ingredients may already be purchased or meals prepared.</span></p>
+<p><span><meta charset="utf-8">
+<strong>Refund Policy</strong></span></p>
+<p class="isSelectedEnd"><span>If there is an issue with your order, please contact us within 24 hours of delivery with a description and photo of the problem.</span></p>
+<p><span>Refunds or replacements will be assessed on a case-by-case basis.</span></p>
+<p><strong>Pricing</strong></p>
+<p><span><meta charset="utf-8">Prices listed on our website may change from time to time. The price confirmed at checkout is the final price for that order.</span></p>
+<p><span><meta charset="utf-8">
+<strong>Contact Information</strong></span></p>
+<p class="isSelectedEnd"><span>For questions regarding these Terms &amp; Conditions, please contact:</span></p>
+<p><span>Lunches by Lily</span><br><span>Email: </span><a href="mailto:hello@lunchesbylily.com"><span>lunchesbylily@gmail.com</span></a><br><span>Instagram: @lunchesbylily</span></p>
+<p><span><meta charset="utf-8">Due to the nature of fresh meal preparation, some meals may be prepared in advance prior to delivery. Once preparation has begun, orders may no longer be modified or cancelled.</span></p>
+
+========================================
+PAGE: This Week's Set Menu (handle: this-weeks-set-menu)
+========================================
+
